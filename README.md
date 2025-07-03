@@ -14,10 +14,10 @@ A full-stack web application for booking and managing household services like cl
 ## 🛠️ Tech Stack
 
 Frontend: Vue.js, Vite  
-Backend: Python (Flask or custom app)  
+Backend: Python (Flask)  
 Task Queue: Celery  
 Scheduler: Celery Beat  
-Database: SQLite / PostgreSQL  
+Database: SQLite  
 Exports: Custom CSV exporter
 
 ## 📥 Getting Started
