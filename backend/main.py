@@ -47,6 +47,4 @@ def setup_periodic_tasks(sender, **kwargs):
 if __name__ == '__main__':
     app.run(debug=True)
 
- #celery -A main.celery_app worker --loglevel=info -B
-
-#env path - source  /mnt/d/mad2_aman/backend/myenv/bin/activate
+ 
